@@ -1,26 +1,70 @@
-<div><p align="center"><img src="https://github.com/JaredWestley/Google-Signup-Page/blob/main/assets/google-icon-logo-png-transparent.png" width="75" height="75" /></p><h3 align="center">Google-Signup-Page</h3></div>
-<p align="center">Google Sign Up Page written in JS with react.</p>
-<p align="center">
-</p>
+# Getting Started with Create React App
 
-### Screenshots
-<p float="left">
-  <img alt="Upload Page" src="assets/NVIDIA_Share_Mlhe1zyDdH.png"/>
-</p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Warning
-This is not to be used in a commercial enviroment, it was rewritten to show how simple it is to make the google signup page.
+## Available Scripts
 
-#### How to use
-There are a few dependencies that need to be installed before it can be run, open a new terminal and copy/paste the next few lines in!
-- "npm install @mui/material @emotion/react @emotion/styled"
-- "npm install @mui/material @mui/styled-engine-sc styled-components"
+In the project directory, you can run:
 
+### `npm start`
 
-- then you can type into the terminal "npm run start" to start the webserver
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#### Contributing
-If you have any idea how to make this app better, please [create a pull request](https://github.com/JaredWestley/VirusTotalChecker/compare). If you find any bug, please [create an issue](https://github.com/JaredWestley/VirusTotalChecker/issues/new).
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-#### License
-This project is licensed under GPLv3 and it's libraries under their license. Please check both [LICENSE.txt](LICENSE.txt) and [LICENSE_3rd.txt](LICENSE_3rd.txt).
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
