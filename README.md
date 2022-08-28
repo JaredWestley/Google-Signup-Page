@@ -1,5 +1,5 @@
-<div><p align="center"> <img src="https://github.com/JaredWestley/Google-Signup-Page/blob/main/assets/google-icon-logo-png-transparent.png" width="75" height="75" /></p><h3 align="center">Google Search Webpage</h3></div>
-<p align="center">Google Search webpage recreated with simple css and html</p>
+<div><p align="center"> <img src="https://github.com/JaredWestley/Google-Signup-Page/blob/main/assets/google-icon-logo-png-transparent.png" width="75" height="75" /></p><h3 align="center">Google Signup Page</h3></div>
+<p align="center">Google Search webpage recreated with React</p>
 <p align="center">
 </p>
 
